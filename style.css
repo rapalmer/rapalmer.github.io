@@ -16,7 +16,7 @@
 body {
 	font: "Bebas-neue", sans-serif;
 	background-color: #f4f4f4;
-	margin: 0 auto;   
+	margin: 0 auto;
 }
 
 #nav {
@@ -54,6 +54,14 @@ body {
 	margin-right: 20%;
 	padding: 0em;
 	//border-style: solid;	
+}
+
+#resume {
+	height: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2.5%;
+	//margin-bottom: 2.5%;
 }
 
 #container h3 {
